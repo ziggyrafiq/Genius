@@ -1,0 +1,43 @@
+/*Responsive Videos*/
+video.video-responsive {
+    width: 100%;
+   height: auto;
+}
+
+
+video.video-center {
+   display: block;
+   margin: 0 auto;
+}
+
+video.video-right{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ float:right;
+
+}
+
+video.video-left{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ float:left;
+   
+}
+
+video.video-round{
+    border-radius: 8px;
+
+}
+
+video.video-circle{
+   border-radius: 50%;
+}
+
+// video.video-thumbnail{
+//     border: 1px solid #ddd;
+//     border-radius: 4px;
+//     padding: 5px;
+
+// }

@@ -1,0 +1,192 @@
+/*
+===================================================================
+Web Background Patterns  by Ziggy Rafiq (https://ZiggyRafiq.com)
+===================================================================
+
+.bg-patten-box{
+}
+*/
+
+.bg-patten-black-and-white-dots{
+
+    background-color: black;
+
+    background-image: -webkit-radial-gradient(circle, white 10%, transparent 10%), radial-gradient(circle, white 10%, transparent 10%);
+    background-image: -moz-radial-gradient(circle, white 10%, transparent 10%), radial-gradient(circle, white 10%, transparent 10%);
+    background-image: -o-radial-gradient(circle, white 10%, transparent 10%), radial-gradient(circle, white 10%, transparent 10%);
+    background-image: -ms-radial-gradient(circle, white 10%, transparent 10%), radial-gradient(circle, white 10%, transparent 10%);
+    background-image: radial-gradient(circle, white 10%, transparent 10%), radial-gradient(circle, white 10%, transparent 10%);
+
+    -webkit-background-size: 100px 100px;
+    -moz-background-size: 100px 100px;
+    background-size: 100px 100px;
+    background-position: 0 0, 50px 50px;
+
+}
+
+.bg-patten-checkerboard{
+	 background-color: white;
+
+    background-image: -webkit-linear-gradient(45deg, black 25%, transparent 25%, transparent 75%, black 75%, black), -webkit-linear-gradient(45deg, black 25%, transparent 25%, transparent 75%, black 75%, black);
+    background-image: -moz-linear-gradient(45deg, black 25%, transparent 25%, transparent 75%, black 75%, black), -moz-linear-gradient(45deg, black 25%, transparent 25%, transparent 75%, black 75%, black);
+    background-image: -o-linear-gradient(45deg, black 25%, transparent 25%, transparent 75%, black 75%, black), -o-linear-gradient(45deg, black 25%, transparent 25%, transparent 75%, black 75%, black);
+    background-image: -ms-linear-gradient(45deg, black 25%, transparent 25%, transparent 75%, black 75%, black), -ms-linear-gradient(45deg, black 25%, transparent 25%, transparent 75%, black 75%, black);
+    background-image: linear-gradient(45deg, black 25%, transparent 25%, transparent 75%, black 75%, black), linear-gradient(45deg, black 25%, transparent 25%, transparent 75%, black 75%, black);
+
+    -webkit-background-size: 100px 100px;
+    -moz-background-size: 100px 100px;
+    background-size: 100px 100px;
+    background-position: 0 0, 50px 50px;
+
+	
+}
+
+.bg-patten-green-and-white-stripes{
+	background: repeating-linear-gradient(60deg, white, white 35px, #8b0 35px, #8b0 70px);
+    min-height: 100%;
+}
+
+.bg-patten-blue-and-white-arrows{
+ background: -webkit-linear-gradient(45deg, #92baac 45px, transparent 45px)64px 64px, -webkit-linear-gradient(45deg, #92baac 45px, transparent 45px,transparent 91px, #e1ebbd 91px, #e1ebbd 135px, transparent 135px), -webkit-linear-gradient(-45deg, #92baac 23px, transparent 23px, transparent 68px,#92baac 68px,#92baac 113px,transparent 113px,transparent 158px,#92baac 158px);
+    background: -moz-linear-gradient(45deg, #92baac 45px, transparent 45px)64px 64px, -moz-linear-gradient(45deg, #92baac 45px, transparent 45px,transparent 91px, #e1ebbd 91px, #e1ebbd 135px, transparent 135px), -moz-linear-gradient(-45deg, #92baac 23px, transparent 23px, transparent 68px,#92baac 68px,#92baac 113px,transparent 113px,transparent 158px,#92baac 158px);
+    background: -o-linear-gradient(45deg, #92baac 45px, transparent 45px)64px 64px, -o-linear-gradient(45deg, #92baac 45px, transparent 45px,transparent 91px, #e1ebbd 91px, #e1ebbd 135px, transparent 135px), -o-linear-gradient(-45deg, #92baac 23px, transparent 23px, transparent 68px,#92baac 68px,#92baac 113px,transparent 113px,transparent 158px,#92baac 158px);
+    background: -ms-linear-gradient(45deg, #92baac 45px, transparent 45px)64px 64px, -ms-linear-gradient(45deg, #92baac 45px, transparent 45px,transparent 91px, #e1ebbd 91px, #e1ebbd 135px, transparent 135px), -ms-linear-gradient(-45deg, #92baac 23px, transparent 23px, transparent 68px,#92baac 68px,#92baac 113px,transparent 113px,transparent 158px,#92baac 158px);
+    background: linear-gradient(45deg, #92baac 45px, transparent 45px)64px 64px, linear-gradient(45deg, #92baac 45px, transparent 45px,transparent 91px, #e1ebbd 91px, #e1ebbd 135px, transparent 135px), linear-gradient(-45deg, #92baac 23px, transparent 23px, transparent 68px,#92baac 68px,#92baac 113px,transparent 113px,transparent 158px,#92baac 158px);
+    background-color: #e1ebbd;
+
+    -webkit-background-size: 128px 128px;
+    -moz-background-size: 128px 128px;
+    background-size: 128px 128px;
+	
+}
+
+.bg-patten-triangle{
+background: #36c;
+
+    background: -webkit-linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0, -webkit-linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0, -webkit-linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px, -webkit-linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px, #36c;
+    background: -moz-linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0, -moz-linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0, -moz-linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px, -moz-linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px, #36c;
+    background: -o-linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0, -o-linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0, -o-linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px, -o-linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px, #36c;
+    background: -ms-linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0, -ms-linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0, -ms-linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px, -ms-linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px, #36c;
+    background: linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0, linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 0 0, linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px, linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px, #36c;
+
+    -webkit-background-size: 15px 30px;
+    -moz-background-size: 15px 30px;
+    background-size: 15px 30px;
+}
+
+.bg-patten-wave{
+background: -webkit-linear-gradient(135deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px), -webkit-linear-gradient(225deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+    background: -moz-linear-gradient(135deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px), -moz-linear-gradient(225deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+    background: -o-linear-gradient(135deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px), -o-linear-gradient(225deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+    background: -ms-linear-gradient(135deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px), -ms-linear-gradient(225deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+    background: linear-gradient(135deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px), linear-gradient(225deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+    background-color: #708090;
+
+    -webkit-background-size: 64px 128px;
+    -moz-background-size: 64px 128px;
+    background-size: 64px 128px;
+	
+}
+
+.bg-patten-zigzag{
+background: -webkit-linear-gradient(135deg, #ECEDDC 25%, transparent 25%) -50px 0, -webkit-linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -50px 0, -webkit-linear-gradient(315deg, #ECEDDC 25%, transparent 25%), -webkit-linear-gradient(45deg, #ECEDDC 25%, transparent 25%);
+    background: -moz-linear-gradient(135deg, #ECEDDC 25%, transparent 25%) -50px 0, -moz-linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -50px 0, -moz-linear-gradient(315deg, #ECEDDC 25%, transparent 25%), -moz-linear-gradient(45deg, #ECEDDC 25%, transparent 25%);
+    background: -o-linear-gradient(135deg, #ECEDDC 25%, transparent 25%) -50px 0, -o-linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -50px 0, -o-linear-gradient(315deg, #ECEDDC 25%, transparent 25%), -o-linear-gradient(45deg, #ECEDDC 25%, transparent 25%);
+    background: -ms-linear-gradient(135deg, #ECEDDC 25%, transparent 25%) -50px 0, -ms-linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -50px 0, -ms-linear-gradient(315deg, #ECEDDC 25%, transparent 25%), -ms-linear-gradient(45deg, #ECEDDC 25%, transparent 25%);
+    background: linear-gradient(135deg, #ECEDDC 25%, transparent 25%) -50px 0, linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -50px 0, linear-gradient(315deg, #ECEDDC 25%, transparent 25%), linear-gradient(45deg, #ECEDDC 25%, transparent 25%);
+
+    -webkit-background-size: 100px 100px;
+    -moz-background-size: 100px 100px;
+    background-size: 100px 100px;
+    background-color: #EC173A;
+	
+}
+
+.bg-patten-cube{
+background-color: #556;
+
+    background-image: -webkit-linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -webkit-linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -webkit-linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -webkit-linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -webkit-linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a), -webkit-linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a);
+    background-image: -moz-linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -moz-linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -moz-linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -moz-linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -moz-linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a), -moz-linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a);
+    background-image: -o-linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -o-linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -o-linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -o-linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -o-linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a), -o-linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a);
+    background-image: -ms-linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -ms-linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -ms-linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -ms-linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), -ms-linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a), -ms-linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a);
+    background-image: linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445), linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a), linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a);
+
+    -webkit-background-size: 80px 140px;
+    -moz-background-size: 80px 140px;
+    background-size: 80px 140px;
+    background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+	
+}
+
+.bg-patten-blue-print{
+background-color: #269;
+
+    background-image: -webkit-linear-gradient(white 2px, transparent 2px), -webkit-linear-gradient(90deg, white 2px, transparent 2px), -webkit-linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px), -webkit-linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);
+    background-image: -moz-linear-gradient(white 2px, transparent 2px), -moz-linear-gradient(90deg, white 2px, transparent 2px), -moz-linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px), -moz-linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);
+    background-image: -o-linear-gradient(white 2px, transparent 2px), -o-linear-gradient(90deg, white 2px, transparent 2px), -o-linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px), -o-linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);
+    background-image: -ms-linear-gradient(white 2px, transparent 2px), -ms-linear-gradient(90deg, white 2px, transparent 2px), -ms-linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px), -ms-linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);
+    background-image: linear-gradient(white 2px, transparent 2px), linear-gradient(90deg, white 2px, transparent 2px), linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);
+
+    -webkit-background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
+    -moz-background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
+    background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
+    background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
+	
+}
+
+.bg-patten-carbon{
+background: -webkit-radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background: -moz-radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background: -o-radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background: -ms-radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background: radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background-color: #282828;
+
+    -webkit-background-size: 16px 16px;
+    -moz-background-size: 16px 16px;
+    background-size: 16px 16px;
+	
+}
+
+
+.bg-patten-heart{
+    background: -webkit-radial-gradient(circle closest-side at 60% 43%, #b03 26%, rgba(187,0,51,0) 27%), radial-gradient(circle closest-side at 40% 43%, #b03 26%, rgba(187,0,51,0) 27%), radial-gradient(circle closest-side at 40% 22%, #d35 45%, rgba(221,51,85,0) 46%), radial-gradient(circle closest-side at 60% 22%, #d35 45%, rgba(221,51,85,0) 46%), radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%), radial-gradient(circle closest-side at 60% 43%, #b03 26%, rgba(187,0,51,0) 27%) 50px 50px, radial-gradient(circle closest-side at 40% 43%, #b03 26%, rgba(187,0,51,0) 27%) 50px 50px, radial-gradient(circle closest-side at 40% 22%, #d35 45%, rgba(221,51,85,0) 46%) 50px 50px, radial-gradient(circle closest-side at 60% 22%, #d35 45%, rgba(221,51,85,0) 46%) 50px 50px, radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%) 50px 50px;
+    background: -moz-radial-gradient(circle closest-side at 60% 43%, #b03 26%, rgba(187,0,51,0) 27%), radial-gradient(circle closest-side at 40% 43%, #b03 26%, rgba(187,0,51,0) 27%), radial-gradient(circle closest-side at 40% 22%, #d35 45%, rgba(221,51,85,0) 46%), radial-gradient(circle closest-side at 60% 22%, #d35 45%, rgba(221,51,85,0) 46%), radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%), radial-gradient(circle closest-side at 60% 43%, #b03 26%, rgba(187,0,51,0) 27%) 50px 50px, radial-gradient(circle closest-side at 40% 43%, #b03 26%, rgba(187,0,51,0) 27%) 50px 50px, radial-gradient(circle closest-side at 40% 22%, #d35 45%, rgba(221,51,85,0) 46%) 50px 50px, radial-gradient(circle closest-side at 60% 22%, #d35 45%, rgba(221,51,85,0) 46%) 50px 50px, radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%) 50px 50px;
+    background: -o-radial-gradient(circle closest-side at 60% 43%, #b03 26%, rgba(187,0,51,0) 27%), radial-gradient(circle closest-side at 40% 43%, #b03 26%, rgba(187,0,51,0) 27%), radial-gradient(circle closest-side at 40% 22%, #d35 45%, rgba(221,51,85,0) 46%), radial-gradient(circle closest-side at 60% 22%, #d35 45%, rgba(221,51,85,0) 46%), radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%), radial-gradient(circle closest-side at 60% 43%, #b03 26%, rgba(187,0,51,0) 27%) 50px 50px, radial-gradient(circle closest-side at 40% 43%, #b03 26%, rgba(187,0,51,0) 27%) 50px 50px, radial-gradient(circle closest-side at 40% 22%, #d35 45%, rgba(221,51,85,0) 46%) 50px 50px, radial-gradient(circle closest-side at 60% 22%, #d35 45%, rgba(221,51,85,0) 46%) 50px 50px, radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%) 50px 50px;
+    background: -ms-radial-gradient(circle closest-side at 60% 43%, #b03 26%, rgba(187,0,51,0) 27%), radial-gradient(circle closest-side at 40% 43%, #b03 26%, rgba(187,0,51,0) 27%), radial-gradient(circle closest-side at 40% 22%, #d35 45%, rgba(221,51,85,0) 46%), radial-gradient(circle closest-side at 60% 22%, #d35 45%, rgba(221,51,85,0) 46%), radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%), radial-gradient(circle closest-side at 60% 43%, #b03 26%, rgba(187,0,51,0) 27%) 50px 50px, radial-gradient(circle closest-side at 40% 43%, #b03 26%, rgba(187,0,51,0) 27%) 50px 50px, radial-gradient(circle closest-side at 40% 22%, #d35 45%, rgba(221,51,85,0) 46%) 50px 50px, radial-gradient(circle closest-side at 60% 22%, #d35 45%, rgba(221,51,85,0) 46%) 50px 50px, radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%) 50px 50px;
+    background: radial-gradient(circle closest-side at 60% 43%, #b03 26%, rgba(187,0,51,0) 27%), radial-gradient(circle closest-side at 40% 43%, #b03 26%, rgba(187,0,51,0) 27%), radial-gradient(circle closest-side at 40% 22%, #d35 45%, rgba(221,51,85,0) 46%), radial-gradient(circle closest-side at 60% 22%, #d35 45%, rgba(221,51,85,0) 46%), radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%), radial-gradient(circle closest-side at 60% 43%, #b03 26%, rgba(187,0,51,0) 27%) 50px 50px, radial-gradient(circle closest-side at 40% 43%, #b03 26%, rgba(187,0,51,0) 27%) 50px 50px, radial-gradient(circle closest-side at 40% 22%, #d35 45%, rgba(221,51,85,0) 46%) 50px 50px, radial-gradient(circle closest-side at 60% 22%, #d35 45%, rgba(221,51,85,0) 46%) 50px 50px, radial-gradient(circle closest-side at 50% 35%, #d35 30%, rgba(221,51,85,0) 31%) 50px 50px;
+    background-color: #b03;
+
+    -webkit-background-size: 100px 100px;
+    -moz-background-size: 100px 100px;
+    background-size: 100px 100px;	
+}
+
+
+.bg-patten-yin-yang{
+background: -webkit-radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 50px 0, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 50px 0, radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 0 50px, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 0 50px, radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%), radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%), radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%) 50px 50px, radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%) 50px 50px;
+    background: -moz-radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 50px 0, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 50px 0, radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 0 50px, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 0 50px, radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%), radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%), radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%) 50px 50px, radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%) 50px 50px;
+    background: -o-radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 50px 0, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 50px 0, radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 0 50px, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 0 50px, radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%), radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%), radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%) 50px 50px, radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%) 50px 50px;
+    background: -ms-radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 50px 0, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 50px 0, radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 0 50px, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 0 50px, radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%), radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%), radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%) 50px 50px, radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%) 50px 50px;
+    background: radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 50px 0, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 50px 0, radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 0 50px, radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 0 50px, radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%), radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%), radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%) 50px 50px, radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%) 50px 50px;
+    background-color: #63773F;
+
+    -webkit-background-size: 100px 100px;
+    -moz-background-size: 100px 100px;
+    background-size: 100px 100px;
+	
+}
+
+.bg-patten-stars{
+background: -webkit-linear-gradient(324deg, #232927 4%, transparent 4%) -70px 43px, -webkit-linear-gradient( 36deg, #232927 4%, transparent 4%) 30px 43px, -webkit-linear-gradient( 72deg, #e3d7bf 8.5%, transparent 8.5%) 30px 43px, -webkit-linear-gradient(288deg, #e3d7bf 8.5%, transparent 8.5%) -70px 43px, -webkit-linear-gradient(216deg, #e3d7bf 7.5%, transparent 7.5%) -70px 23px, -webkit-linear-gradient(144deg, #e3d7bf 7.5%, transparent 7.5%) 30px 23px, -webkit-linear-gradient(324deg, #232927 4%, transparent 4%) -20px 93px, -webkit-linear-gradient( 36deg, #232927 4%, transparent 4%) 80px 93px, -webkit-linear-gradient( 72deg, #e3d7bf 8.5%, transparent 8.5%) 80px 93px, -webkit-linear-gradient(288deg, #e3d7bf 8.5%, transparent 8.5%) -20px 93px, -webkit-linear-gradient(216deg, #e3d7bf 7.5%, transparent 7.5%) -20px 73px, -webkit-linear-gradient(144deg, #e3d7bf 7.5%, transparent 7.5%) 80px 73px;
+    background: -moz-linear-gradient(324deg, #232927 4%, transparent 4%) -70px 43px, -moz-linear-gradient( 36deg, #232927 4%, transparent 4%) 30px 43px, -moz-linear-gradient( 72deg, #e3d7bf 8.5%, transparent 8.5%) 30px 43px, -moz-linear-gradient(288deg, #e3d7bf 8.5%, transparent 8.5%) -70px 43px, -moz-linear-gradient(216deg, #e3d7bf 7.5%, transparent 7.5%) -70px 23px, -moz-linear-gradient(144deg, #e3d7bf 7.5%, transparent 7.5%) 30px 23px, -moz-linear-gradient(324deg, #232927 4%, transparent 4%) -20px 93px, -moz-linear-gradient( 36deg, #232927 4%, transparent 4%) 80px 93px, -moz-linear-gradient( 72deg, #e3d7bf 8.5%, transparent 8.5%) 80px 93px, -moz-linear-gradient(288deg, #e3d7bf 8.5%, transparent 8.5%) -20px 93px, -moz-linear-gradient(216deg, #e3d7bf 7.5%, transparent 7.5%) -20px 73px, -moz-linear-gradient(144deg, #e3d7bf 7.5%, transparent 7.5%) 80px 73px;
+    background: -o-linear-gradient(324deg, #232927 4%, transparent 4%) -70px 43px, -o-linear-gradient( 36deg, #232927 4%, transparent 4%) 30px 43px, -o-linear-gradient( 72deg, #e3d7bf 8.5%, transparent 8.5%) 30px 43px, -o-linear-gradient(288deg, #e3d7bf 8.5%, transparent 8.5%) -70px 43px, -o-linear-gradient(216deg, #e3d7bf 7.5%, transparent 7.5%) -70px 23px, -o-linear-gradient(144deg, #e3d7bf 7.5%, transparent 7.5%) 30px 23px, -o-linear-gradient(324deg, #232927 4%, transparent 4%) -20px 93px, -o-linear-gradient( 36deg, #232927 4%, transparent 4%) 80px 93px, -o-linear-gradient( 72deg, #e3d7bf 8.5%, transparent 8.5%) 80px 93px, -o-linear-gradient(288deg, #e3d7bf 8.5%, transparent 8.5%) -20px 93px, -o-linear-gradient(216deg, #e3d7bf 7.5%, transparent 7.5%) -20px 73px, -o-linear-gradient(144deg, #e3d7bf 7.5%, transparent 7.5%) 80px 73px;
+    background: -ms-linear-gradient(324deg, #232927 4%, transparent 4%) -70px 43px, -ms-linear-gradient( 36deg, #232927 4%, transparent 4%) 30px 43px, -ms-linear-gradient( 72deg, #e3d7bf 8.5%, transparent 8.5%) 30px 43px, -ms-linear-gradient(288deg, #e3d7bf 8.5%, transparent 8.5%) -70px 43px, -ms-linear-gradient(216deg, #e3d7bf 7.5%, transparent 7.5%) -70px 23px, -ms-linear-gradient(144deg, #e3d7bf 7.5%, transparent 7.5%) 30px 23px, -ms-linear-gradient(324deg, #232927 4%, transparent 4%) -20px 93px, -ms-linear-gradient( 36deg, #232927 4%, transparent 4%) 80px 93px, -ms-linear-gradient( 72deg, #e3d7bf 8.5%, transparent 8.5%) 80px 93px, -ms-linear-gradient(288deg, #e3d7bf 8.5%, transparent 8.5%) -20px 93px, -ms-linear-gradient(216deg, #e3d7bf 7.5%, transparent 7.5%) -20px 73px, -ms-linear-gradient(144deg, #e3d7bf 7.5%, transparent 7.5%) 80px 73px;
+    background: linear-gradient(324deg, #232927 4%, transparent 4%) -70px 43px, linear-gradient( 36deg, #232927 4%, transparent 4%) 30px 43px, linear-gradient( 72deg, #e3d7bf 8.5%, transparent 8.5%) 30px 43px, linear-gradient(288deg, #e3d7bf 8.5%, transparent 8.5%) -70px 43px, linear-gradient(216deg, #e3d7bf 7.5%, transparent 7.5%) -70px 23px, linear-gradient(144deg, #e3d7bf 7.5%, transparent 7.5%) 30px 23px, linear-gradient(324deg, #232927 4%, transparent 4%) -20px 93px, linear-gradient( 36deg, #232927 4%, transparent 4%) 80px 93px, linear-gradient( 72deg, #e3d7bf 8.5%, transparent 8.5%) 80px 93px, linear-gradient(288deg, #e3d7bf 8.5%, transparent 8.5%) -20px 93px, linear-gradient(216deg, #e3d7bf 7.5%, transparent 7.5%) -20px 73px, linear-gradient(144deg, #e3d7bf 7.5%, transparent 7.5%) 80px 73px;
+    background-color: #232927;
+
+    -webkit-background-size: 100px 100px;
+    -moz-background-size: 100px 100px;
+    background-size: 100px 100px;
+	
+}
