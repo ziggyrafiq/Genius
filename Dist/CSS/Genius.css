@@ -32,6 +32,1878 @@
   *zoom: 1;
 }
 
+.jasmine-shimmer {
+  background-color: #f8edea;
+}
+
+.spring-rose {
+  background-color: #f3e7ef;
+}
+
+.blossom-white {
+  background-color: #eee2de;
+}
+
+.sorbet {
+  background-color: #f3dbdd;
+}
+
+.pretty-pink {
+  background-color: #e4d2e2;
+}
+
+.sweet-pink {
+  background-color: #e8c4db;
+}
+
+.berry-smoothie {
+  background-color: #d37998;
+}
+
+.fuschia-lily {
+  background-color: #c1669d;
+}
+
+.raspberry-bellini {
+  background-color: #be4f5c;
+}
+
+.juicy-red {
+  background-color: #bd2927;
+}
+
+.volcanic-red {
+  background-color: #b5322f;
+}
+
+.sumptuous-plum {
+  background-color: #983660;
+}
+
+.cranberry-crunch {
+  background-color: #a32e39;
+}
+
+.salsa-red {
+  background-color: #ab1d2c;
+}
+
+.chalky-white-4 {
+  background-color: #eee9eb;
+}
+
+.orchid-opera-6 {
+  background-color: #eee8ea;
+}
+
+.party-surprise-6 {
+  background-color: #f0e7e5;
+}
+
+.sweet-sundae-6 {
+  background-color: #f0e7e8;
+}
+
+.fuchsia-falls-6 {
+  background-color: #f0e5e5;
+}
+
+.rose-trellis-6 {
+  background-color: #f4e1e3;
+}
+
+.sweet-sundae-5 {
+  background-color: #f2dee3;
+}
+
+.rock-candy-6 {
+  background-color: #f1dee6;
+}
+
+.flamingo-fun-6 {
+  background-color: #efdde7;
+}
+
+.party-surprise-5 {
+  background-color: #eedcda;
+}
+
+.borchid-opera-5 {
+  background-color: #e5dbe0;
+}
+
+.rose-trellis-5 {
+  background-color: #f2d6da;
+}
+
+.fuchsia-falls-5 {
+  background-color: #f1d5dd;
+}
+
+.rock-candy-5 {
+  background-color: #edd3df;
+}
+
+.flamingo-fun-5 {
+  background-color: #ebd2e2;
+}
+
+.orchid-opera-4 {
+  background-color: #e4d2dd;
+}
+
+.party-surprise-4 {
+  background-color: #ecd0cf;
+}
+
+.sweet-sundae-4 {
+  background-color: #efcad8;
+}
+
+.rose-trellis-4 {
+  background-color: #edc6d0;
+}
+
+.flamingo-fun-4 {
+  background-color: #e8c4db;
+}
+
+.party-surprise-3 {
+  background-color: #f2bcc2;
+}
+
+.sweet-sundae-3 {
+  background-color: #ebbecf;
+}
+
+.rock-candy-4 {
+  background-color: #e8bdd3;
+}
+
+.orchid-opera-3 {
+  background-color: #e6bdd9;
+}
+
+.fuchsia-falls-4 {
+  background-color: #e9b9ca;
+}
+
+.flamingo-fun-3 {
+  background-color: #e4b6d6;
+}
+
+.rose-trellis-3 {
+  background-color: #eca8b9;
+}
+
+.fuchsia-falls-3 {
+  background-color: #e6a7be;
+}
+
+.rock-candy-3 {
+  background-color: #e1a5c3;
+}
+
+.orchid-opera-2 {
+  background-color: #d6a4cc;
+}
+
+.party-surprise-2 {
+  background-color: #ed9aa3;
+}
+
+.sweet-sundae-2 {
+  background-color: #df93af;
+}
+
+.rose-trellis-2 {
+  background-color: #e0899c;
+}
+
+.popping-pink {
+  background-color: #c98ebd;
+}
+
+.rock-candy-2 {
+  background-color: #d486ac;
+}
+
+.flamingo-fun-2 {
+  background-color: #d185b7;
+}
+
+.fuchsia-falls-2 {
+  background-color: #d37998;
+}
+
+.party-surprise-1 {
+  background-color: #d86c80;
+}
+
+.orchid-opera-1 {
+  background-color: #b973a8;
+}
+
+.sweet-sundae-1 {
+  background-color: #c76892;
+}
+
+.flamingo-fun-1 {
+  background-color: #c1669d;
+}
+
+.rose-trellis-1 {
+  background-color: #ce586c;
+}
+
+.fuchsia-falls-1 {
+  background-color: #c05674;
+}
+
+.rock-candy-1 {
+  background-color: #b8537b;
+}
+
+.ruby-fountain-4 {
+  background-color: #be4f5c;
+}
+
+.red-beacon {
+  background-color: #c23433;
+}
+
+.fire-cracker-3 {
+  background-color: #b33e3f;
+}
+
+.red-stallion-3 {
+  background-color: #b23643;
+}
+
+.volcanic-splash-3 {
+  background-color: #b5322f;
+}
+
+.fire-cracker-2 {
+  background-color: #b52638;
+}
+
+.ruby-fountain-3 {
+  background-color: #a4343e;
+}
+
+.moroccan-velvet-3 {
+  background-color: #9d3352;
+}
+
+.red-stallion-2 {
+  background-color: #ab1d2c;
+}
+
+.candied-pink {
+  background-color: #e5ced4;
+}
+
+.tea-rose {
+  background-color: #ecccc8;
+}
+
+.satin-bow {
+  background-color: #dfcecb;
+}
+
+.love-note {
+  background-color: #d8ccc8;
+}
+
+.pink-bunting {
+  background-color: #d5c2c8;
+}
+
+.craftsmans-clay {
+  background-color: #c6baa8;
+}
+
+.raspberry-diva {
+  background-color: #b27782;
+}
+
+.fondant-fancy {
+  background-color: #b86d84;
+}
+
+.curious-crimson {
+  background-color: #c15a57;
+}
+
+.summer-coulis {
+  background-color: #9e555c;
+}
+
+.pepper-red {
+  background-color: #b33e3f;
+}
+
+.roasted-red {
+  background-color: #ab4546;
+}
+
+.redcurrant-clory {
+  background-color: #974951;
+}
+
+.monarch {
+  background-color: #833532;
+}
+
+.ruby-starlet {
+  background-color: #782e34;
+}
+
+.blush-noisette-6 {
+  background-color: #eee9e6;
+}
+
+.adobe-pink-6 {
+  background-color: #efe8e6;
+}
+
+.emporium-rose-6 {
+  background-color: #eee8e8;
+}
+
+.burnt-autumn-6 {
+  background-color: #f1e7e4;
+}
+
+.oyster-cove-6 {
+  background-color: #ece7e4;
+}
+
+.blush-rambler-6 {
+  background-color: #efe6e5;
+}
+
+.soft-montelimar-6 {
+  background-color: #ebe5e5;
+}
+
+.polar-pink {
+  background-color: #efddd1;
+}
+
+.pink-nevada-6 {
+  background-color: #ebdcdb;
+}
+
+.pale-peony {
+  background-color: #e7ddde;
+}
+
+.blush-rambler-5 {
+  background-color: #eadbdd;
+}
+
+.candy-love-6 {
+  background-color: #ebdad9;
+}
+
+.waterlily-blush-6 {
+  background-color: #e8dadd;
+}
+
+.blush-noisette-5 {
+  background-color: #e5dbd7;
+}
+
+.oyster-cove-5 {
+  background-color: #e3dbd8;
+}
+
+.soft-montelimar-5 {
+  background-color: #e3dadb;
+}
+
+.soft-cinnebar-6 {
+  background-color: #e3dad8;
+}
+
+.adobe-pink-5 {
+  background-color: #ead0cf;
+}
+
+.emporium-rose-5 {
+  background-color: #e1d1d7;
+}
+
+.candy-love-5 {
+  background-color: #e7ced0;
+}
+
+.waterlily-blush-5 {
+  background-color: #e5ced4;
+}
+
+.burnt-autumn-5 {
+  background-color: #ecccc8;
+}
+
+.oyster-cove-4 {
+  background-color: #d8cfcd;
+}
+
+.soft-montelimar-4 {
+  background-color: #d9ced1;
+}
+
+.blush-noisette-4 {
+  background-color: #dbcdca;
+}
+
+.chic-lilac {
+  background-color: #d6ccca;
+}
+
+.soft-cinnebar-5 {
+  background-color: #d6ccca;
+}
+
+.pink-nevada-5 {
+  background-color: #e6c4c5;
+}
+
+.blush-rambler-4 {
+  background-color: #dcc2c7;
+}
+
+.powder-pink {
+  background-color: #d3bfc1;
+}
+
+.honest-touch {
+  background-color: #e1bca7;
+}
+
+.soft-cinnebar-4 {
+  background-color: #ccc0c0;
+}
+
+.emporium-rose-4 {
+  background-color: #d6bbc9;
+}
+
+.adobe-pink 4 {
+  background-color: #ddb8b8;
+}
+
+.burnt-autumn-4 {
+  background-color: #e3b5b0;
+}
+
+.waterlily-blush-4 {
+  background-color: #d8b6c3;
+}
+
+.candy-love-4 {
+  background-color: #ddb5ba;
+}
+
+.pink-nevada-4 {
+  background-color: #e0adae;
+}
+
+.powdered-heather {
+  background-color: #ceb2af;
+}
+
+.blush-noisette-3 {
+  background-color: #c8b2b0;
+}
+
+.soft-montelimar-3 {
+  background-color: #c3b3b8;
+}
+
+.oyster-cove-3 {
+  background-color: #c3b2b2;
+}
+
+.ayers-red {
+  background-color: #d6a78a;
+}
+
+.ruby-fountain-6 {
+  background-color: #e3979b;
+}
+
+.burnt-autumn-3 {
+  background-color: #db9b96;
+}
+
+.waterlily-blush-3 {
+  background-color: #cb9db0;
+}
+
+.blush-rambler-3 {
+  background-color: #ca9da8;
+}
+
+.heather-solstice {
+  background-color: #b6a5a6;
+}
+
+.soft-cinnebar-3 {
+  background-color: #b6a5a6;
+}
+
+.pink-nevada-3 {
+  background-color: #db9599;
+}
+
+.emporium-rose-3 {
+  background-color: #c29aaf;
+}
+
+.moroccan-velvet-6 {
+  background-color: #d7919e;
+}
+
+.red-stallion-6 {
+  background-color: #e18d93;
+}
+
+.adobe-pink-3 {
+  background-color: #cf9597;
+}
+
+.fire-cracker-6 {
+  background-color: #de8e89;
+}
+
+.summer-surprise-6 {
+  background-color: #d191a4;
+}
+
+.candy-love-3 {
+  background-color: #d0929c;
+}
+
+.red-stallion-5 {
+  background-color: #df8289;
+}
+
+.garnet-symphony-6 {
+  background-color: #d48594;
+}
+
+.russian-velvet-6 {
+  background-color: #c787a2;
+}
+
+.ruby-fountain-5 {
+  background-color: #db7680;
+}
+
+.oyster-cove-2 {
+  background-color: #a78e8e;
+}
+
+.blush-noisette-2 {
+  background-color: #ac8b88;
+}
+
+.soft-montelimar-2 {
+  background-color: #a48c95;
+}
+
+.fire-cracker-5 {
+  background-color: #d57471;
+}
+
+.pink-nevada-2 {
+  background-color: #cd747c;
+}
+
+.burnt-autumn-2 {
+  background-color: #ca7571;
+}
+
+.coral-polka {
+  background-color: #d66b76;
+}
+
+.floral-bunch {
+  background-color: #d66b76;
+}
+
+.moroccan-velvet-5 {
+  background-color: #cb6e81;
+}
+
+.adobe-pink-2 {
+  background-color: #c27179;
+}
+
+.emporium-rose-2 {
+  background-color: #ac7996;
+}
+
+.russian-velvet-5 {
+  background-color: #bb7191;
+}
+
+.candy-love-2 {
+  background-color: #c16d7e;
+}
+
+.soft-cinnebar-2 {
+  background-color: #977f82;
+}
+
+.summer-surprise-5 {
+  background-color: #b86d84;
+}
+
+.garnet-symphony-5 {
+  background-color: #c55f76;
+}
+
+.waterlily-blush-2 {
+  background-color: #a86d86;
+}
+
+.blush-rambler-2 {
+  background-color: #ae6b80;
+}
+
+.red-stallion-4 {
+  background-color: #c25c67;
+}
+
+.fire-cracker-4 {
+  background-color: #c15a57;
+}
+
+.capri-rose {
+  background-color: #966870;
+}
+
+.garnet-symphony-4 {
+  background-color: #ae5367;
+}
+
+.russian-rouge {
+  background-color: #b94d4d;
+}
+
+.oyster-cove-1 {
+  background-color: #8a6769;
+}
+
+.soft-montelimar-1 {
+  background-color: #856772;
+}
+
+.blush-noisette-1 {
+  background-color: #8f6360;
+}
+
+.summer-surprise-4 {
+  background-color: #aa516f;
+}
+
+.soft-cinnebar-1 {
+  background-color: #816469;
+}
+
+.adobe-pink-1 {
+  background-color: #9e555c;
+}
+
+.pink-nevada-1 {
+  background-color: #ac4b57;
+}
+
+.russian-velvet-4 {
+  background-color: #a14c72;
+}
+
+.summer-surprise-3 {
+  background-color: #a54668;
+}
+
+.moroccan-velvet-4 {
+  background-color: #a6445c;
+}
+
+.burnt-autumn-1 {
+  background-color: #a34140;
+}
+
+.emporium-rose-1 {
+  background-color: #82516f;
+}
+
+.blush-rambler-1 {
+  background-color: #964561;
+}
+
+.candy-love-1 {
+  background-color: #984356;
+}
+
+.garnet-symphony-3 {
+  background-color: #a03547;
+}
+
+.waterlily-blush-1 {
+  background-color: #834662;
+}
+
+.russian-velvet-3 {
+  background-color: #983660;
+}
+
+.summer-surprise-2 {
+  background-color: #854459;
+}
+
+.volcanic-splash-2 {
+  background-color: #91302c;
+}
+
+.russian-velvet-2 {
+  background-color: #823556;
+}
+
+.ruby-fountain-2 {
+  background-color: #991b25;
+}
+
+.ruby-fountain-1 {
+  background-color: #89242b;
+}
+
+.moroccan-velvet-2 {
+  background-color: #763046;
+}
+
+.summer-surprise-1 {
+  background-color: #6a3144;
+}
+
+.red-stallion-1 {
+  background-color: #77272c;
+}
+
+.abacus-bead {
+  background-color: #6b3136;
+}
+
+.russian-velvet-1 {
+  background-color: #622f4d;
+}
+
+.garnet-symphony-2 {
+  background-color: #791c33;
+}
+
+.volcanic-splash-1 {
+  background-color: #662d29;
+}
+
+.moroccan-velvet-1 {
+  background-color: #6b2230;
+}
+
+.fire-cracker-1 {
+  background-color: #672529;
+}
+
+.garnet-symphony-1 {
+  background-color: #51272e;
+}
+
+.soft-coral {
+  background-color: #faebdd;
+}
+
+.apricot-crush {
+  background-color: #f8ddc2;
+}
+
+.soft-peach {
+  background-color: #f6d8bd;
+}
+
+.tangerine-twist {
+  background-color: #f08948;
+}
+
+.orange-fizz {
+  background-color: #e2712b;
+}
+
+.moroccan-flame {
+  background-color: #e36811;
+}
+
+.coral-flair {
+  background-color: #d16965;
+}
+
+.coral-canyon-6 {
+  background-color: #f4e6de;
+}
+
+.amber-queen-6 {
+  background-color: #f4e6da;
+}
+
+.bongo-jazz-6 {
+  background-color: #f3e6d9;
+}
+
+.silken-sunrise-6 {
+  background-color: #f6e3db;
+}
+
+.caribbean-dawn-6 {
+  background-color: #f0e5de;
+}
+
+.amber-queen-5 {
+  background-color: #f7e2d3;
+}
+
+.mango-melody-6 {
+  background-color: #f2e2d9;
+}
+
+.silken-sunrise-5 {
+  background-color: #f6dcd4;
+}
+
+.coral-canyon-5 {
+  background-color: #f4dccf;
+}
+
+.bongo-jazz-5 {
+  background-color: #f5dcd0;
+}
+
+.mango-melody-5 {
+  background-color: #f3d9cd;
+}
+
+.caribbean-dawn-5 {
+  background-color: #efd8cf;
+}
+
+.amber-queen-4 {
+  background-color: #f4d4bf;
+}
+
+.caribbean-dawn-4 {
+  background-color: #f6d1c9;
+}
+
+.coral-canyon-4 {
+  background-color: #f3d2c0;
+}
+
+.bongo-jazz-4 {
+  background-color: #f8cec0;
+}
+
+.mango-melody-4 {
+  background-color: #f2cebe;
+}
+
+.silken-sunrise-4 {
+  background-color: #eeccc4;
+}
+
+.caribbean-dawn-3 {
+  background-color: #f5c4bb;
+}
+
+.coral-canyon-3 {
+  background-color: #f1bca4;
+}
+
+.mango-melody-3 {
+  background-color: #f6b99d;
+}
+
+.amber-queen-3 {
+  background-color: #f2b895;
+}
+
+.silken-sunrise-3 {
+  background-color: #f2b4aa;
+}
+
+.bongo-jazz-3 {
+  background-color: #f7a88c;
+}
+
+.coral-canyon-2 {
+  background-color: #f1a888;
+}
+
+.auburn-falls-6 {
+  background-color: #eba984;
+}
+
+.amber-queen-2 {
+  background-color: #eca779;
+}
+
+.caribbean-dawn-2 {
+  background-color: #eea197;
+}
+
+.mango-melody-2 {
+  background-color: #f09d7c;
+}
+
+.ginger-glow-6 {
+  background-color: #e79d75;
+}
+
+.mexican-mosaic-6 {
+  background-color: #e99b78;
+}
+
+.bongo-jazz-2 {
+  background-color: #f39578;
+}
+
+.amber-queen-1 {
+  background-color: #f19754;
+}
+
+.silken-sunrise-2 {
+  background-color: #eb9487;
+}
+
+.coral-canyon-1 {
+  background-color: #ec916c;
+}
+
+.tangerine-twist {
+  background-color: #f08948;
+}
+
+.mango-melody-1 {
+  background-color: #e9855e;
+}
+
+.ginger-glow-5 {
+  background-color: #e18959;
+}
+
+.mexican-mosaic-5 {
+  background-color: #e3865d;
+}
+
+.auburn-falls-5 {
+  background-color: #de814b;
+}
+
+.caribbean-dawn-1 {
+  background-color: #e47969;
+}
+
+.flame-frenzy-5 {
+  background-color: #dd7b59;
+}
+
+.ginger-glow-4 {
+  background-color: #da783e;
+}
+
+.orange-fizz {
+  background-color: #e2712b;
+}
+
+.silken-sunrise-1 {
+  background-color: #e16f5f;
+}
+
+.mexican-mosaic-4 {
+  background-color: #dc703d;
+}
+
+.african-adventure-5 {
+  background-color: #d9714c;
+}
+
+.auburn-falls-4 {
+  background-color: #e36811;
+}
+
+.bongo-jazz-1 {
+  background-color: #e16553;
+}
+
+.ginger-glow-3 {
+  background-color: #d46b29;
+}
+
+.mexican-mosaic-3 {
+  background-color: #d96630;
+}
+
+.flame-frenzy-4 {
+  background-color: #d4623c;
+}
+
+.salsa-mix {
+  background-color: #cd6555;
+}
+
+.auburn-falls-3 {
+  background-color: #d55e26;
+}
+
+.african-adventure-4 {
+  background-color: #da5919;
+}
+
+.flame-frenzy-3 {
+  background-color: #cd562b;
+}
+
+.african-adventure-3 {
+  background-color: #d15028;
+}
+
+.autumn-fern-1 {
+  background-color: #bd5a2b;
+}
+
+.hot-paprika-4 {
+  background-color: #ce4531;
+}
+
+.mexican-mosaic-2 {
+  background-color: #b14e20;
+}
+
+.volcanic-splash-4 {
+  background-color: #b54131;
+}
+
+.hot-paprika-3 {
+  background-color: #b33625;
+}
+
+.auburn-falls-2 {
+  background-color: #a44126;
+}
+
+.tuscan-terracotta {
+  background-color: #d8967b;
+}
+
+.copper-blush {
+  background-color: #cc907b;
+}
+
+.toasted-terracotta {
+  background-color: #bf7e61;
+}
+
+.collective-coral {
+  background-color: #ca5b4a;
+}
+
+.brick-red {
+  background-color: #8a4837;
+}
+
+.jungle-ginger-6 {
+  background-color: #efe7e3;
+}
+
+.thai-magic-6 {
+  background-color: #f2e6e2;
+}
+
+.polar-pink {
+  background-color: #efddd1;
+}
+
+.powder-colour {
+  background-color: #eadcd4;
+}
+
+.sicilian-summer-6 {
+  background-color: #ecdad5;
+}
+
+.autumn-fern-6 {
+  background-color: #eddad1;
+}
+
+.gipsy-bloom-6 {
+  background-color: #ecd9d5;
+}
+
+.autumn-fern-5 {
+  background-color: #ebcfc2;
+}
+
+.sicilian-summer-5 {
+  background-color: #e7cdc7;
+}
+
+.jungle-ginger-5 {
+  background-color: #eacdc2;
+}
+
+.thai-magic-5 {
+  background-color: #e9ccc5;
+}
+
+.gipsy-bloom-5 {
+  background-color: #e7cbc7;
+}
+
+.autumn-fern-4 {
+  background-color: #e4b8a5;
+}
+
+.jungle-ginger-4 {
+  background-color: #e5b4a3;
+}
+
+.thai-magic-4 {
+  background-color: #e3b3a8;
+}
+
+.poached-peach {
+  background-color: #e6b580;
+}
+
+.sicilian-summer-4 {
+  background-color: #deb4aa;
+}
+
+.gipsy-bloom-4 {
+  background-color: #deb3af;
+}
+
+.safari-spice {
+  background-color: #e2ad72;
+}
+
+.african-adventure-6 {
+  background-color: #e7a087;
+}
+
+.ayers-red {
+  background-color: #d6a78a;
+}
+
+.volcanic-splash-6 {
+  background-color: #e19b8d;
+}
+
+.sunset-kiss {
+  background-color: #dc9c86;
+}
+
+.jungle-ginger-3 {
+  background-color: #dc9c86;
+}
+
+.sunset-kiss {
+  background-color: #dc9c86;
+}
+
+.thai-magic-3 {
+  background-color: #d99b8e;
+}
+
+.gipsy-bloom-3 {
+  background-color: #d59b96;
+}
+
+.flame-frenzy-6 {
+  background-color: #e49579;
+}
+
+.sicilian-summer-3 {
+  background-color: #d29a8f;
+}
+
+.autumn-fern-3 {
+  background-color: #d8967b;
+}
+
+.hot-paprika-6 {
+  background-color: #de8f7f;
+}
+
+.treasured-coral {
+  background-color: #cd8161;
+}
+
+.inca-orange {
+  background-color: #cd7966;
+}
+
+.frosted-papaya {
+  background-color: #cd7266;
+}
+
+.volcanic-splash-5 {
+  background-color: #d27563;
+}
+
+.gipsy-bloom-2 {
+  background-color: #c27470;
+}
+
+.sicilian-summer-2 {
+  background-color: #bf7567;
+}
+
+.jungle-ginger-2 {
+  background-color: #cc6d4b;
+}
+
+.thai-magic-2 {
+  background-color: #b97470;
+}
+
+.red-sand {
+  background-color: #b47761;
+}
+
+.salsa-mix {
+  background-color: #cd6555;
+}
+
+.hot-paprika-5 {
+  background-color: #cd5e57;
+}
+
+.autumn-fern-2 {
+  background-color: #be6b44;
+}
+
+.toasted-clay {
+  background-color: #ad6c55;
+}
+
+.auburn-leaves {
+  background-color: #ae6335;
+}
+
+.thai-magic-1 {
+  background-color: #aa4d4c;
+}
+
+.red-ochre {
+  background-color: #97534d;
+}
+
+.gipsy-bloom-1 {
+  background-color: #9d4c49;
+}
+
+.tin-red {
+  background-color: #9a4c3c;
+}
+
+.jungle-ginger-1 {
+  background-color: #994c33;
+}
+
+.ginger-glow-2 {
+  background-color: #944e2d;
+}
+
+.sicilian-summer-1 {
+  background-color: #8b4c3f;
+}
+
+.flame-frenzy-2 {
+  background-color: #874831;
+}
+
+.auburn-falls-1 {
+  background-color: #863f2a;
+}
+
+.african-adventure-2 {
+  background-color: #873627;
+}
+
+.mexican-mosaic-1 {
+  background-color: #724232;
+}
+
+.ginger-glow-1 {
+  background-color: #674332;
+}
+
+.auburn-leather {
+  background-color: #7d362a;
+}
+
+.hot-paprika-2 {
+  background-color: #7d2b2d;
+}
+
+.african-adventure-1 {
+  background-color: #69332a;
+}
+
+.hot-paprika-1 {
+  background-color: #5a3732;
+}
+
+.desert-wind {
+  background-color: #f8f1e4;
+}
+
+.coastal-glow {
+  background-color: #f9eed7;
+}
+
+.honey-beam {
+  background-color: #fbead6;
+}
+
+.ivory-lace {
+  background-color: #f5ebd8;
+}
+
+.apricot-white {
+  background-color: #f1e3d1;
+}
+
+.buttermilk {
+  background-color: #f0dfbc;
+}
+
+.californian-sands-6 {
+  background-color: #f9e9cb;
+}
+
+.harvest-fruits-6 {
+  background-color: #f6e9d6;
+}
+
+.golden-rambler-6 {
+  background-color: #f5e9d4;
+}
+
+.pharaohs-gold-6 {
+  background-color: #f5e8d2;
+}
+
+.pharaohs-gold-5 {
+  background-color: #f8e5c2;
+}
+
+.moroccan-sands-6 {
+  background-color: #f5e5c7;
+}
+
+.golden-rambler-5 {
+  background-color: #f8e4c2;
+}
+
+.californian-sands-5 {
+  background-color: #f9e3bc;
+}
+
+.polar-flame-6 {
+  background-color: #f5e2c9;
+}
+
+.golden-rambler-4 {
+  background-color: #fedeb4;
+}
+
+.harvest-fruits-5 {
+  background-color: #f5dfc4;
+}
+
+.californian-sands-4 {
+  background-color: #fadeae;
+}
+
+.pharaohs-gold-4 {
+  background-color: #f8deb1;
+}
+
+.tuscan-treasure-5 {
+  background-color: #fbdcb1;
+}
+
+.polar-flame-5 {
+  background-color: #f9dbbd;
+}
+
+.moroccan-sands-5 {
+  background-color: #fadbaf;
+}
+
+.pharaohs-gold-3 {
+  background-color: #fadaa1;
+}
+
+.polar-flame-4 {
+  background-color: #f8d6b3;
+}
+
+.pharaohs-gold-2 {
+  background-color: #ffd17d;
+}
+
+.californian-sands-3 {
+  background-color: #fdd28d;
+}
+
+.moroccan-sands-4 {
+  background-color: #fbd296;
+}
+
+.golden-rambler-3 {
+  background-color: #ffd191;
+}
+
+.harvest-fruits-4 {
+  background-color: #f9d1aa;
+}
+
+.earth-glaze-6 {
+  background-color: #ffce7d;
+}
+
+.golden-bark-6 {
+  background-color: #fdcb78;
+}
+
+.polar-flame-3 {
+  background-color: #ffc88f;
+}
+
+.polar-flame-2 {
+  background-color: #fac681;
+}
+
+.pharaohs-gold-1 {
+  background-color: #fdc468;
+}
+
+.harvest-fruits-3 {
+  background-color: #f9c292;
+}
+
+.earth-glaze-5 {
+  background-color: #ffc04e;
+}
+
+.golden-rambler-2 {
+  background-color: #ffbe67;
+}
+
+.californian-sands-2 {
+  background-color: #f9bf70;
+}
+
+.tuscan-treasure-4 {
+  background-color: #f1c184;
+}
+
+.moroccan-sands-3 {
+  background-color: #fbbd71;
+}
+
+.rich-havana-6 {
+  background-color: #fcbb58;
+}
+
+.tuscan-treasure-3 {
+  background-color: #f5bb71;
+}
+
+.golden-rambler-1 {
+  background-color: #ffb54f;
+}
+
+.golden-bark-5 {
+  background-color: #ffb240;
+}
+
+.polar-flame-1 {
+  background-color: #f9b462;
+}
+
+.moroccan-sands-2 {
+  background-color: #ffaf65;
+}
+
+.californian-sands-1 {
+  background-color: #fab248;
+}
+
+.earth-glaze-4 {
+  background-color: #feab13;
+}
+
+.harvest-fruits-2 {
+  background-color: #f4ac71;
+}
+
+.tuscan-treasure-2 {
+  background-color: #f9a947;
+}
+
+.nigerian-sands-6 {
+  background-color: #f8a850;
+}
+
+.rich-havana-5 {
+  background-color: #f7a835;
+}
+
+.golden-bark-4 {
+  background-color: #ffa200;
+}
+
+.spicy-sandalwood-6 {
+  background-color: #ec9f6c;
+}
+
+.nigerian-sands-5 {
+  background-color: #f49839;
+}
+
+.rich-havana-4 {
+  background-color: #f3951b;
+}
+
+.earth-glaze-3 {
+  background-color: #e39931;
+}
+
+.harvest-fruits-1 {
+  background-color: #f08948;
+}
+
+.spicy-sandalwood-5 {
+  background-color: #e58c4f;
+}
+
+.moroccan-sands-1 {
+  background-color: #eb8621;
+}
+
+.golden-bark-3 {
+  background-color: #d98c1d;
+}
+
+.spicy-sandalwood-4 {
+  background-color: #e2843f;
+}
+
+.nigerian-sands-4 {
+  background-color: #d77e29;
+}
+
+.rich-havana-3 {
+  background-color: #ce8121;
+}
+
+.spicy-sandalwood-3 {
+  background-color: #dc7525;
+}
+
+.sunbaked-terracotta {
+  background-color: #e1b595;
+}
+
+.burning-embers {
+  background-color: #e0a678;
+}
+
+.sumatran-melody-6 {
+  background-color: #f2e8e0;
+}
+
+.treacle-tart-6 {
+  background-color: #f2e6de;
+}
+
+.eastern-spice-6 {
+  background-color: #f4e5d9;
+}
+
+.nectar-jewels-6 {
+  background-color: #f5dece;
+}
+
+.dutch-gold-6 {
+  background-color: #f5dec5;
+}
+
+.honey-drizzle-6 {
+  background-color: #f3dec8;
+}
+
+.wholemeal-honey-6 {
+  background-color: #f4ddcc;
+}
+
+.jamaican-bronze-6 {
+  background-color: #f3ddc9;
+}
+
+.treacle-tart-5 {
+  background-color: #efdccf;
+}
+
+.dutch-gold-5 {
+  background-color: #f6d8b8;
+}
+
+.eastern-spice-5 {
+  background-color: #f3d4bd;
+}
+
+.honey-drizzle-5 {
+  background-color: #f0cfad;
+}
+
+.treacle-tart-4 {
+  background-color: #e4d1c2;
+}
+
+.sumatran-melody-5 {
+  background-color: #eacec0;
+}
+
+.jamaican-bronze-5 {
+  background-color: #efccab;
+}
+
+.nectar-jewels-5 {
+  background-color: #f0c8b0;
+}
+
+.dutch-gold-4 {
+  background-color: #f2c89b;
+}
+
+.wholemeal-honey-5 {
+  background-color: #e9c9b2;
+}
+
+.eastern-spice-4 {
+  background-color: #f0bc94;
+}
+
+.honey-drizzle-4 {
+  background-color: #e9bd8e;
+}
+
+.honey-drizzle-3 {
+  background-color: #eeba7d;
+}
+
+.jamaican-bronze-4 {
+  background-color: #ecba8b;
+}
+
+.wholemeal-honey-4 {
+  background-color: #e7b794;
+}
+
+.nectar-jewels-4 {
+  background-color: #eab696;
+}
+
+.sumatran-melody-4 {
+  background-color: #e1b7a3;
+}
+
+.sunbaked-terracotta {
+  background-color: #e1b595;
+}
+
+.dutch-gold-3 {
+  background-color: #e6b580;
+}
+
+.eastern-spice-3 {
+  background-color: #ebaa76;
+}
+
+.treacle-tart-3 {
+  background-color: #d1b098;
+}
+
+.jamaican-bronze-3 {
+  background-color: #e6a96f;
+}
+
+.wholemeal-honey-3 {
+  background-color: #e0a678;
+}
+
+.honey-drizzle-2 {
+  background-color: #e0a767;
+}
+
+.sumatran-melody-3 {
+  background-color: #d9a387;
+}
+
+.nectar-jewels-3 {
+  background-color: #d99f7a;
+}
+
+.roasted-pumpkin-6 {
+  background-color: #e09b6c;
+}
+
+.modern-mustard {
+  background-color: #dba000;
+}
+
+.dutch-gold-2 {
+  background-color: #d89e55;
+}
+
+.jamaican-bronze-2 {
+  background-color: #e09851;
+}
+
+.treacle-tart-2 {
+  background-color: #c49a7b;
+}
+
+.cherished-gold {
+  background-color: #c19659;
+}
+
+.honey-drizzle-1 {
+  background-color: #d19038;
+}
+
+.eastern-spice-2 {
+  background-color: #dd883a;
+}
+
+.roasted-pumpkin-5 {
+  background-color: #da8953;
+}
+
+.wholemeal-honey-2 {
+  background-color: #d48b4c;
+}
+
+.mustard-blanket {
+  background-color: #b89441;
+}
+
+.nectar-jewels-2 {
+  background-color: #cd8555;
+}
+
+.roasted-pumpkin-4 {
+  background-color: #d77e44;
+}
+
+.dutch-gold-1 {
+  background-color: #c88326;
+}
+
+.notebook-orange {
+  background-color: #c2794f;
+}
+
+.sumatran-melody-2 {
+  background-color: #c2794f;
+}
+
+.jamaican-bronze-1 {
+  background-color: #c27b2e;
+}
+
+.nigerian-sands-3 {
+  background-color: #cc7436;
+}
+
+.prized-gold {
+  background-color: #c07722;
+}
+
+.eastern-spice-1 {
+  background-color: #c5711f;
+}
+
+.treacle-tart-1 {
+  background-color: #ad7a51;
+}
+
+.roasted-pumpkin-3 {
+  background-color: #c96c25;
+}
+
+.nectar-jewels-1 {
+  background-color: #b4662f;
+}
+
+.wholemeal-honey-1 {
+  background-color: #ae6830;
+}
+
+.golden-bark-2 {
+  background-color: #a96b2b;
+}
+
+.sumatran-melody-1 {
+  background-color: #ae6335;
+}
+
+.earth-glaze-2 {
+  background-color: #986735;
+}
+
+.spicy-sandalwood-2 {
+  background-color: #a05e2e;
+}
+
+.rich-havana-2 {
+  background-color: #995f2c;
+}
+
+.nigerian-sands-2 {
+  background-color: #9a5c38;
+}
+
+.roasted-pumpkin-2 {
+  background-color: #8f5833;
+}
+
+.golden-bark-1 {
+  background-color: #6a4e36;
+}
+
+.rich-havana-1 {
+  background-color: #654330;
+}
+
 body {
   color: red;
 }
